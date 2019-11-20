@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author irodriguezsteuerberg
  */
 public class MetodosAsteriscos {
-private String asterisco="*";
+private final String asterisco="*";
 private int numElem;
 Scanner sc = new Scanner(System.in);    
 
